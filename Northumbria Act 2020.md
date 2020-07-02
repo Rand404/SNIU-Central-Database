@@ -39,10 +39,12 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 6. In the case that less than 50% turnout is achieved in a referendum, the associated referendum is considered to have failed.
 
+7. In the case that the referendum taking place in the region of North East England fails to pass, this Act will not come into force.
+
 ## Commencement, Extent and Short Title
 
 1. This Act may be cited as the Northumbria Act 2020.
-2. This Act comes into force on the passing of any of the three referenda provisioned for in section 3.
+2. This Act comes into force on the passing of the referendum in North East England.
 3. This Act extends to England and Wales.
 
 **This Act was written by the Hon. Antonio J. Linares, Member for Scotland, as a Private Member’s bill**
