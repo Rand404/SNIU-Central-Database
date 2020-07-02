@@ -4,24 +4,23 @@ name: Formalising Legis
 # This workflow is triggered on pushes to the repository.
 on: [push]
 
+
 jobs:
   build:
     # Job name is Greeting
     name: Pull Request stuff
     # This job runs on Linux
     runs-on: ubuntu-latest
+
     steps:
-      # This step uses GitHub's hello-world-javascript-action: https://github.com/actions/hello-world-javascript-action
+      - uses: actions/checkout@v2
+        
       - name: markdownlint-cli
         uses: nosborn/github-action-markdown-cli@v1.1.1
-        with:
-          files: .
-          config_file: ".markdownlint.yaml"
-          ignore_files: "examples/ignore/*"
-          rules: "examples/rules/custom.js"
+
       - name: Markdown to PDF
         uses: valtyr/pandoc-action@v0.1-alpha
         
       # This step prints an output (time) from the previous step's action.
-      - name: Echo the greeting's time
+      - name: Echo the time
         run: echo 'The time was ${{ steps.hello.outputs.time }}.'
