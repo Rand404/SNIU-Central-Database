@@ -31,7 +31,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
     * The question shall be: 'Do you wish for the region of [Region] to be a part of the constituent nation of Northumbria?'
     * Possible options to answer the question shall be: 'Yes' or 'No.'
 
-3. Such a referendum is considered to have failed if more than 50% of the result is for the 'No' option established in section 3(2b).
+3. Such a referendum is considered to have failed if less than 65% of the result is for the 'Yes' option established in section 3(2b).
 
 4. In the case that the referendum fails, the region concerned remains a part of the constituent nation of England and the relevant aspects of section 1(2) shall be amended to remove the associated region.
 
