@@ -8,7 +8,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 1. Northumbria shall be recognised as a constituent country of the United Kingdom of Great Britain and Northern Ireland.
 
-2. The borders of Northumbria shall be, subject to a referendum in each of the counties to which the borders encompass, the area encompassed by schedule 1; the borders encompassed by Northumbria shall be:
+2. The borders of Northumbria shall be, subject to a referendum in each of the counties to which the borders encompass, the area encompassed by schedule 1; the borders encompassed by Northumbria shall be by region:
     * The region of North East England
     * The region of North West England
     * The region of Yorkshire and the Humber
