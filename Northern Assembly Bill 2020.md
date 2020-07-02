@@ -6,12 +6,13 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ## 1 Assembly
 
-1.
+1. There shall be a Northern Assembly
+    * The initial members of the Assembly shall be returned for the areas which, at the time of their election, are constituencies for parliamentary elections in Northumbria
 
-## 2 Short title, commencement and extent
+## 2 Short Title, Commencement and Extent
 
 1. This Act may be cited as the Northern Assembly Act 2020.
 2. This Act comes into force on the passing of this Act.
-3. This Act extends to England & Wales.
+3. This Act extends to ~~England & Wales~~ Northumbria.
 
 **This bill was written by the Hon. Antonio Linares, Member for Scotland as a Private Member’s Bill.**
