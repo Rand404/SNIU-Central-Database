@@ -28,7 +28,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 1. Separate referenda shall be conducted in each of the regions encompassing the borders of Northumbria as established in section 1(2).
 
 2. The question on the ballot and the possible answers are as such:
-    * The question shall be: 'Do you wish for [Region] to be a part of the constituent nation of Northumbria?'
+    * The question shall be: 'Do you wish for the region of [Region] to be a part of the constituent nation of Northumbria?'
     * Possible options to answer the question shall be: 'Yes' or 'No.'
 
 3. Such a referendum is considered to have failed if more than 50% of the result is for the 'No' option established in section 3(2b).
