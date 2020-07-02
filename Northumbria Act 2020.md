@@ -45,6 +45,8 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 2. This Act comes into force on the passing of any of the three referenda provisioned for in section 3.
 3. This Act extends to England and Wales.
 
+**This Act was written by the Hon. Antonio J. Linares, Member for Scotland, as a Private Member’s bill**
+
 ## SCHEDULE 1
 
 ![BORDERS OF NORTHUMBRIA](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Northern_England.svg/800px-Northern_England.svg.png)
